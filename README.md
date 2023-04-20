@@ -6,6 +6,8 @@ GMS is a software for managing garment manufacturing operations. It streamlines 
 #include <stdio.h>
 
 // Function prototypes
+
+
 void erp();
 void scm();
 void ims();
